@@ -1,3 +1,4 @@
+![customize_dashboard](https://user-images.githubusercontent.com/99752443/172008144-8d429806-62ee-4c27-b501-33b2daf87fbc.png)
 # Belly-Button-Biodiversity
 The objective of this project is to build an interactive dashboard to explore the Belly Button dataset which catalogs the bacteria colonizing the human navels.
 
