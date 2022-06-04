@@ -77,7 +77,7 @@ function buildCharts(sample) {
     // Create a variable that holds the washing frequency
     var washingFreq = parseInt(metaResult.wfreq);
 
-    
+    console.log(otuIDs)
   
   
     // Create the yticks for the bar chart.
